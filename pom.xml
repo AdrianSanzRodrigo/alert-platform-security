@@ -5,7 +5,7 @@
 
     <groupId>com.kschool</groupId>
     <artifactId>alert-platform-security</artifactId>
-    <version>2.0.0.RELEASE</version>
+    <version>1.1.0.RELEASE</version>
     <packaging>jar</packaging>
 
     <name>Alert Platform security library for MADLERT</name>
